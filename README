@@ -1,0 +1,11 @@
+From a predefined list of volunteers each volunteer is assigned a number between 1-9999.  
+A second random number is chosen as a winning number 1-9999
+The closest number wins.
+
+Example: 
+Generating Randomized ticket 1000-9999 for each volunteer
+{'Index': 2338, 'xsquared': 987, 'elizabot': 7512, 'Yeungx': 8116, 'Carolina': 7686, 't.he.art': 2637, 'Tamara_VA7ETR': 619, 'lionello': 1488, 'omkar': 1176, 'TankGuy': 5988}
+drawing winning number between 1 and 9999
+winning number is 7596
+the winning number belongs to: elizabot
+[Finished in 0.1s]
